@@ -2,6 +2,7 @@
     "name" : "company/demobundle",
     "description" : "A wysiwyg bundle",
     "type" : "symfony-bundle",
+    "version": "0.3.0-beta.5",
     "authors" : [{
         "name" : "tomku",
         "email" : "tomanio79@tlen.pl"

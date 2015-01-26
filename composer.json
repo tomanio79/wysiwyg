@@ -1,0 +1,30 @@
+{
+    "name" : "company/demobundle",
+    "description" : "A wysiwyg bundle",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "tomku",
+        "email" : "tomanio79@tlen.pl"
+    }],
+    "keywords" : [
+        "wysiwyg"
+    ],
+    "license" : [
+        "MIT"
+    ],
+    "require" : {
+    },
+    "autoload" : {
+        "psr-0" : {
+            "tomanio79\\wysiwyg" : ""
+        }
+    },
+    "target-dir" : "tomanio79/wysiwyg",
+    "repositories" : [{
+    }],
+    "extra" : {
+    "branch-alias" : {
+            "dev-master" : "some_version-dev"
+        }
+    }
+}
